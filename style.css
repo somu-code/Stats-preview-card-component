@@ -60,6 +60,9 @@ body {
   margin-bottom: 50px;
   line-height: 1.6;
 }
+.status li {
+  list-style: none;
+}
 .status-number {
   font-size: 24px;
   font-weight: 700;
