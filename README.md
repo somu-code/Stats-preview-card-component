@@ -24,15 +24,15 @@ Users should be able to:
 ### Screenshot
 
 Desktop view
-![](./Screenshot/desktop-view.png.jpg)
+![](./screenshot/desktop-view.png)
 
 Mobile View (width 375px)
-![](./Screenshot/mobile-view.png.jpg)
+![](./screenshot/mobile-view.png)
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/stats-preview-card-component-oup_WWZ1io)
+- Live Site URL: [Live site URL here](https://stats-preview-card-component-7aq.pages.dev/)
 
 ### Built with
 
